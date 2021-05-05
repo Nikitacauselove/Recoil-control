@@ -70,12 +70,12 @@ function OnEvent(event, arg)
 			Sleep(math.random(32, 34));      
 			MoveMouseRelative(1, 8);       
 			while IsMouseButtonPressed(1) do   
-				Sleep(math.random(34,36));	  
+				Sleep(math.random(34, 36));	  
 				MoveMouseRelative(0, 3);              
 				if not IsMouseButtonPressed(1) then
 					break 
 				end 	 
-				Sleep(math.random(34,36));	  
+				Sleep(math.random(34, 36));	  
 				MoveMouseRelative(1, 3);  
 				if not IsMouseButtonPressed(1) then
 					break 
