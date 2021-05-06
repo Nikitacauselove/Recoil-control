@@ -16,567 +16,567 @@ function OnEvent(event, arg)
 		while IsMouseButtonPressed(1) do
 			MoveMouseRelative(0, 5);
 			if not IsMouseButtonPressed(1) then
-			break
+				break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 5);
 			if not IsMouseButtonPressed(1) then
-			    break
+			    	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 4);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
               		end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 4);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 5);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 5);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 4);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 4);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(1, 4);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(1, 4);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(1, 4);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 5);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(4, 4);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(4, 4);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(4, 4);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(3, 4);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(4, 4);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(4, 3);
 			if not IsMouseButtonPressed(1) then
-			  break
+				break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(4, 3);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(4, 4);
 			if not IsMouseButtonPressed(1) then
-			  break
+			 	 break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(4, 3);
 			if not IsMouseButtonPressed(1) then
-			  break
+			 	 break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(4, 3);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(3, 3);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(3, 3);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(3, 3);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 2);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 2);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 2);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 2);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-3, 2);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-3, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-3, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-3, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-3, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-3, 2);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 2);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 2);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 2);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(3, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(3, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(3, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			 	 break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(3, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 1);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(0, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-2, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 			Sleep(math.random(23, 24));
 			MoveMouseRelative(-1, 0);
 			if not IsMouseButtonPressed(1) then
-			  break
+			  	break
 			end
 		end
     	end
