@@ -12,13 +12,13 @@ function OnEvent(event, arg)
 		isPointShooting = false;
 	end
    	if(isReady and isPointShooting and event == "MOUSE_BUTTON_PRESSED" and arg == 1) then
-    		Sleep(math.random(3, 5));
+		Sleep(math.random(3, 5));
 		MoveMouseRelative(0, math.random(4, 6));
-    		Sleep(math.random(3, 5));
+		Sleep(math.random(3, 5));
 		MoveMouseRelative(0, math.random(4, 6));
-    		Sleep(math.random(3, 5));
+		Sleep(math.random(3, 5));
 		MoveMouseRelative(0, math.random(4, 6));
-    		Sleep(math.random(3, 5));
+		Sleep(math.random(3, 5));
 		MoveMouseRelative(0, math.random(4, 6));
     	end
 end
