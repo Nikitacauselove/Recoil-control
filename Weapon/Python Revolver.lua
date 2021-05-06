@@ -12,25 +12,29 @@ function OnEvent(event, arg)
 		isPointShooting = false;
 	end
    	if(isReady and isPointShooting and event == "MOUSE_BUTTON_PRESSED" and arg == 1) then
-    		Sleep(math.random(9, 11));
-		MoveMouseRelative(0, math.random(6, 8));
-    		Sleep(math.random(9, 11));
-		MoveMouseRelative(0, math.random(6, 8));
-    		Sleep(math.random(9, 11));
-		MoveMouseRelative(0, math.random(6, 8));
-    		Sleep(math.random(9, 11));
-		MoveMouseRelative(0, math.random(6, 8));
-    		Sleep(math.random(9, 11));
-		MoveMouseRelative(0, math.random(6, 8));
-    		Sleep(math.random(9, 11));
-		MoveMouseRelative(0, math.random(6, 8));
-    		Sleep(math.random(9, 11));
-		MoveMouseRelative(0, math.random(6, 8));
-    		Sleep(math.random(9, 11));
-		MoveMouseRelative(0, math.random(6, 8));
-    		Sleep(math.random(9, 11));
-		MoveMouseRelative(0, math.random(6, 8));
-    		Sleep(math.random(9, 11));
-		MoveMouseRelative(0, math.random(6, 8));
+    		Sleep(math.random(7, 9));
+		MoveMouseRelative(0, math.random(5, 7));
+		Sleep(math.random(7, 9));
+		MoveMouseRelative(0, math.random(5, 7));
+		Sleep(math.random(7, 9));
+		MoveMouseRelative(0, math.random(5, 7));
+		Sleep(math.random(7, 9));
+		MoveMouseRelative(0, math.random(5, 7));
+		Sleep(math.random(7, 9));
+		MoveMouseRelative(0, math.random(5, 7));
+		Sleep(math.random(7, 9));
+		MoveMouseRelative(0, math.random(5, 7));
+		Sleep(math.random(7, 9));
+		MoveMouseRelative(0, math.random(5, 7));
+		Sleep(math.random(7, 9));
+		MoveMouseRelative(0, math.random(5, 7));
+		Sleep(math.random(7, 9));
+		MoveMouseRelative(0, math.random(5, 7));
+		Sleep(math.random(7, 9));
+		MoveMouseRelative(0, math.random(5, 7));
+		Sleep(math.random(7, 9));
+		MoveMouseRelative(0, math.random(5, 7));
+		Sleep(math.random(7, 9));
+		MoveMouseRelative(0, math.random(5, 7));
     	end
 end
