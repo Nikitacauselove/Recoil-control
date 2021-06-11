@@ -1,6 +1,6 @@
 ## Rust
 
-| Weapon               |  FOV  | Sensitivity |
+| Weapon/test              |  FOV  | Sensitivity |
 | :---                 | :---: |        ---: |
 | Assault Rifle        |   90  |     0.66    |
 | Custom SMG           |   90  |     0.82    |
